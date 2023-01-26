@@ -9,7 +9,7 @@ This program implements a list data structure that links together nodes of integ
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | main.cpp | Main driver of my list program . |
-|   2   | https://github.com/Vizemo/2143-OOP-Marchesi/blob/a584c04cd008a826ea011b16026a4fb5ceae3c8d/Assignments/A03/BANNER.cpp | My Banner |
+|   2   | [A03](./A03) | My Banner |
 
 
 ### Instructions

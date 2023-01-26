@@ -11,6 +11,9 @@
 *       
 *   - This program does not require any non standard libraries 
 *       
+*  Purpose
+*   - For this program, the main driver was used to test the CircularArrayQue class
+*
 *  Files:            
 *       main.cpp    : driver program 
 *****************************************************************************/

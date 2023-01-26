@@ -6,7 +6,7 @@ This program implements a list data structure that links together nodes of integ
 
 ### Files
 
-|   #   | File     | Description                      |
+|   #   | Folder    | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | main.cpp | Main driver of my list program . |
 |   2   | [A03](./A03) | My Banner |

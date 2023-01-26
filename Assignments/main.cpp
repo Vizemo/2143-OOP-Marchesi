@@ -1,6 +1,6 @@
 /*****************************************************************************
 *                    
-*  Author:           Victor Marchesi
+*  Author:           Victor Marchesi code credit to Dr.Griffin
 *  Email:            vzmarchesi1016@my.msutexas.edu
 *  Label:            A03
 *  Title:            Linked List Class

@@ -1,3 +1,20 @@
+/*****************************************************************************
+*                    
+*  Author:           Victor Marchesi
+*  Email:            vzmarchesi1016@my.msutexas.edu
+*  Label:            A03
+*  Title:            Linked List Class
+*  Course:           CMPS 2143
+*  Semester:         Spring 2023
+* 
+*  Instructions
+*       
+*   - This program does not require any non standard libraries 
+*       
+*  Files:            
+*       main.cpp    : driver program 
+*****************************************************************************/
+    
 #include <iostream>
 
 using namespace std;

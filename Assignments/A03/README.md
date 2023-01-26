@@ -8,7 +8,7 @@ This program implements a list data structure that links together nodes of integ
 
 |   #   | Files    | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | main.cpp | My Banner. |
+|   1   | BANNER.cpp | My Banner. |
 
 
 ### Instructions

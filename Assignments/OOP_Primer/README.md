@@ -11,7 +11,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+><img src="![Abstraction](https://user-images.githubusercontent.com/91359207/215235472-b35ead28-9365-439f-aaf9-a85256c1a963.png)" width=250>
 
 #### Object
 > This is your object definition
@@ -24,7 +24,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+><img src="![access_specifier](https://user-images.githubusercontent.com/91359207/215235502-d77cea35-c331-4b4d-a523-82d16ceb8ce8.png)" width=250>
 
 #### Object
 > This is your object definition
@@ -37,7 +37,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+><img src="![Class](https://user-images.githubusercontent.com/91359207/215235518-b4a9de2d-54bd-4cde-9b6e-54f696adf7e8.png)" width=250>
 
 #### Object
 > This is your object definition

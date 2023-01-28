@@ -163,19 +163,6 @@
 > This is your method definition
 
 
-#### Class
-
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
-><img src="" width=250>
-
-#### Object
-> This is your object definition
-
-#### Methods
-> This is your method definition
-
-
 #### Multiple Inheritance
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -190,19 +177,6 @@
 
 
 #### Object
-
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
-><img src="" width=250>
-
-#### Object
-> This is your object definition
-
-#### Methods
-> This is your method definition
-
-
-#### Class
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >

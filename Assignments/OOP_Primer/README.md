@@ -20,6 +20,8 @@
 > This is your method definition
 
 
+
+## OOP concept
 #### Attributes / Properties
 
 > This is your definition of what a class is. Using images is A-ok. For example: 

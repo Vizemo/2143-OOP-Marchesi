@@ -193,7 +193,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
->![overloading](https://user-images.githubusercontent.com/91359207/215236128-e95cc4b0-f87a-4c1c-8b9f-b2ef5f751e6a.png)
+>![overloading](https://user-images.githubusercontent.com/91359207/215236303-9f981d3c-acca-4553-b6a9-838d87f6875e.png)
 
 #### Object
 > This is your object definition
@@ -206,7 +206,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
->![polymorphsin](https://user-images.githubusercontent.com/91359207/215236151-3ac13c1c-ecde-4261-a4d3-43c2177b4916.png)
+>![polymorphsin](https://user-images.githubusercontent.com/91359207/215236308-55dc0916-b9cd-481b-9f88-18224793c38d.png)
 
 #### Object
 > This is your object definition
@@ -246,7 +246,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
->![virtual](https://user-images.githubusercontent.com/91359207/215236246-5ba2aff5-d805-49c0-ac4b-59c7b3a3626f.png)
+>![virtual](https://user-images.githubusercontent.com/91359207/215236337-0a34c6e0-4e26-42bf-8692-abd1c26254dc.png)
 
 #### Object
 > This is your object definition

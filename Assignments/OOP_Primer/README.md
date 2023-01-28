@@ -115,7 +115,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![inheritance](https://user-images.githubusercontent.com/91359207/215235888-5357e828-935e-46dd-8903-174be4468916.png)
 
 #### Object
 > This is your object definition
@@ -128,7 +128,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![instance_variable](https://user-images.githubusercontent.com/91359207/215235896-0285d55f-d69a-4935-94ed-0229a53ffd5f.png)
 
 #### Object
 > This is your object definition
@@ -141,7 +141,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![instance_variable](https://user-images.githubusercontent.com/91359207/215235929-f40c5ff7-789c-48cb-b4a5-aa0886c314b7.png)
 
 #### Object
 > This is your object definition
@@ -154,7 +154,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![Methods](https://user-images.githubusercontent.com/91359207/215235952-0cf81a1c-48a2-4eb0-aa48-ab620a0bfb68.png)
 
 #### Object
 > This is your object definition
@@ -167,7 +167,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![multiple_inheritance](https://user-images.githubusercontent.com/91359207/215236048-dad2a364-6806-4e8d-8347-c14907607e6a.png)
 
 #### Object
 > This is your object definition
@@ -180,7 +180,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![object](https://user-images.githubusercontent.com/91359207/215236026-5b9425f1-31d7-4423-9253-c5bd00d8ee59.png)
 
 #### Object
 > This is your object definition
@@ -193,7 +193,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![overloading](https://user-images.githubusercontent.com/91359207/215236128-e95cc4b0-f87a-4c1c-8b9f-b2ef5f751e6a.png)
 
 #### Object
 > This is your object definition
@@ -206,7 +206,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![polymorphsin](https://user-images.githubusercontent.com/91359207/215236151-3ac13c1c-ecde-4261-a4d3-43c2177b4916.png)
 
 #### Object
 > This is your object definition
@@ -219,7 +219,8 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![access_specifier](https://user-images.githubusercontent.com/91359207/215236216-35469476-de10-4771-a706-943c30726ebc.png)
+
 
 #### Object
 > This is your object definition
@@ -232,7 +233,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![static](https://user-images.githubusercontent.com/91359207/215236242-7fb59ed9-4935-4425-bb75-79e2e0d067eb.png)
 
 #### Object
 > This is your object definition
@@ -245,7 +246,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src="" width=250>
+>![virtual](https://user-images.githubusercontent.com/91359207/215236246-5ba2aff5-d805-49c0-ac4b-59c7b3a3626f.png)
 
 #### Object
 > This is your object definition

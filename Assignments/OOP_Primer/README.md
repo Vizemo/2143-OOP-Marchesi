@@ -35,6 +35,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Class
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -48,6 +49,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Class Variable
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -61,6 +63,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Composition
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -74,6 +77,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Constructor
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -87,6 +91,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Encapsulation
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -100,6 +105,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Friends
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -113,6 +119,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Inheritance
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -126,6 +133,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Instance Variable
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -139,6 +147,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Member Variable
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -152,6 +161,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Method
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -165,6 +175,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Multiple Inheritance
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -178,6 +189,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Object
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -191,6 +203,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Overloading
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -204,6 +217,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Polymorphism
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -217,12 +231,12 @@
 > This is your method definition
 
 
+## OOP concept
 #### Public / Private / Protected
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
 >![access_specifier](https://user-images.githubusercontent.com/91359207/215236216-35469476-de10-4771-a706-943c30726ebc.png)
-
 
 #### Object
 > This is your object definition
@@ -231,6 +245,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Static
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
@@ -244,6 +259,7 @@
 > This is your method definition
 
 
+## OOP concept
 #### Virtual
 
 > This is your definition of what a class is. Using images is A-ok. For example: 

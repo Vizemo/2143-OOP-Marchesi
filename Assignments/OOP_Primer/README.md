@@ -37,7 +37,7 @@
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
-><img src=https://user-images.githubusercontent.com/91359207/215235518-b4a9de2d-54bd-4cde-9b6e-54f696adf7e8.png" width=25% height=25%>
+>![Class](https://user-images.githubusercontent.com/91359207/215235867-c1ea8a54-0ed7-4954-84c6-d2ed72f51eff.png)
 
 #### Object
 > This is your object definition

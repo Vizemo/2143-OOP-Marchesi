@@ -2,8 +2,8 @@
 ### Victor Marchesi
 ### Description:
 
-This program implements a Vector data structure that links together by using struct nodes.
-Contains constructors, and methods to modify the Vector in the way a vector needs to be modifed
+This program implements a Vector class that links together data by using struct nodes.
+Contains constructors, and methods to modify the Vector in the way a vector needs to be modifed.
 
 ### Files
 

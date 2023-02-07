@@ -11,6 +11,11 @@ Contains constructors, and methods to modify the Vector in the way a vector need
 | :---: | -------- | -------------------------------- |
 |   1   | BANNER.cpp | My Banner. |
 |   2   | main.cpp | The source code for Vector class assignment. |
+|   3   | input.dat  | input.dat file with data to be read into the Vector class|
+|   4   | input1.dat | input1.dat file with data to be read into the Vector class|
+|   5   | input2.dat | input2.dat file with data to be read into the Vector class|
+|   6   | input3.dat | input3.dat file with data to be read into the Vector class|
+|   7   | test.out   | test.out file that has the output data|
 
 
 ### Instructions

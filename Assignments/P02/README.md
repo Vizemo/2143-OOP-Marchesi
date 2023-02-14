@@ -13,7 +13,7 @@ Also added operator overloading of =, ==, +, -, *, /, fstream, and ostream <<.
 | :---: | -------- | -------------------------------- |
 |   1   | BANNER.cpp | My Banner. |
 |   2   | main.cpp | The source code for Vector class assignment. |
-|   3   | tutput.txt | output.txt file that has the output data |
+|   3   | output.txt | output.txt file that has the output data |
 
 
 ### Instructions

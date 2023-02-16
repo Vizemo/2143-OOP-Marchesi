@@ -21,3 +21,11 @@ Also added operator overloading of =, ==, +, -, *, /, fstream, and ostream <<.
 - This program requires IOSTREAM and FSTREAM to work
 
 ### Example Command
+
+- V1.pushFront(5) : will push the integer 5 to the front of the vector V1
+
+- V1.pushRear(5) : will push the integer 5 to the back of the vector
+
+- cout << V1 << endl;
+
+- fout << V1 << endl;

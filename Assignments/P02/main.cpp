@@ -3,7 +3,7 @@
 *  Author:           Victor Marchesi
 *  Email:            vzmarchesi1016@my.msutexas.edu
 *  Label:            04-P02
-*  Title:            Vector Class
+*  Title:            Vector Class with operator overloading
 *  Course:           2143-201
 *  Semester:         Spring 2023
 * 

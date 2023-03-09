@@ -1,0 +1,63 @@
+Victor Marchesi
+3/9/23
+Spring 23
+
+
+Singly linked list
+
+digraph LL {
+	rankdir = LR
+	0 [color="blue", fillcolor="white", shape="record"]
+	1 [color="red", fillcolor="white", label="2", shape="circle"]
+	2 [color="purple", fillcolor="white", label="4", shape="ellipse"]
+	3 [color="yellow", fillcolor="white", label="6", shape="star"]
+	4 [color="green", fillcolor="white", label="8", shape="diamond"]
+	5 [color="white", label="NULL", shape="record"]
+	0 -> 1 [arrowhead="vee", color="black"]
+	1 -> 2 [arrowhead="dot", color="yellow"]
+	2 -> 3 [arrowhead="odot", color="green"]
+	3 -> 4 [arrowhead="none", color="pink"]
+	4 -> 5 [arrowhead="empty", color="green"]
+}
+
+
+Doubly linked list
+
+digraph DLL {
+	rankdir = LR
+	0 [color="white", label="NULL", shape="record"]
+	1 [color="blue", fillcolor="white", label="0", shape="rectangle"]
+	2 [color="red", fillcolor="white", label="2", shape="circle"]
+	3 [color="purple", fillcolor="white", label="4", shape="ellipse"]
+	4 [color="yellow", fillcolor="white", label="6", shape="star"]
+	5 [color="white", label="NULL", shape="record"]
+	0 -> 1 [arrowhead="none", color="white"]
+	1 -> 0 [arrowhead="vee", color="black"]
+	1 -> 2 [arrowhead="odot", color="green"]
+	2 -> 1 [arrowhead="odot", color="green"]
+	2 -> 3 [arrowhead="tee", color="pink"]
+	3 -> 2 [arrowhead="vee", color="black"]
+	3 -> 4 [arrowhead="vee", color="black"]
+	4 -> 3 [arrowhead="vee", color="black"]
+	4 -> 5 [arrowhead="vee", color="black"]
+}
+
+
+Binary tree
+
+digraph LL {
+	rankdir = TD
+	0 [color="red", fillcolor="white", label="12", shape="circle"]
+	1 [color="green", fillcolor="white", label="6", shape="egg"]
+	2 [color="blue", fillcolor="white", label="6", shape="egg"]
+	3 [color="yellow", fillcolor="white", label="2", shape="record"]
+	4 [color="yellow", fillcolor="white", label="3", shape="record"]
+	5 [color="pink", fillcolor="white", label="2", shape="doublecircle"]
+	6 [color="pink", fillcolor="white", label="3", shape="doublecircle"]
+	0 -> 1 [arrowhead="odot", color="blue"]
+	0 -> 2 [arrowhead="vee", color="green"]
+	1 -> 3 [arrowhead="none", color="pink"]
+	1 -> 4 [arrowhead="none", color="pink"]
+	2 -> 5 [arrowhead="empty", color="red"]
+	2 -> 6 [arrowhead="empty", color="red"]
+}

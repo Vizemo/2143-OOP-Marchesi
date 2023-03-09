@@ -44,12 +44,9 @@ using namespace std;
       - friend ostream &operator<<(ostream &os, Attribute &e)
       - friend ofstream &operator<<(ofstream &os, Edge &e)
  
- Private Methods:
-      - 
- 
  Usage: 
- 
-      - 
+      - use is to create and attribute based on input and save the
+        data in a map
       
 */
 class Attribute

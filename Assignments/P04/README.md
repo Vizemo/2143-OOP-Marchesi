@@ -19,28 +19,28 @@
 
 ### Example Command
 
--D1 = Dice(10, 5)
-  -First parameter is number of sides, and second parameter is number of dices wanted<br />
+D1 = Dice(10, 5)<br />
+  -First parameter is number of sides, and second parameter is number of dices wanted<br /><br />
 
--dieTester(d1, 10, "sum")<br />
+dieTester(d1, 10, "sum")<br />
   -Parameter 1 is the Dice object<br />
   -Parameter 2 is the amount of times you want to roll<br />
   -Parameter 3 is the string name of what you want to do<br />
   -will roll the given amount times and find the sum of all rolls<br /><br />
   
--dieTester(d1, 10, "max")<br />
+dieTester(d1, 10, "max")<br />
   -Parameter 1 is the Dice object<br />
   -Parameter 2 is the amount of times you want to roll<br />
   -Parameter 3 is the string name of what you want to do<br />
   -will roll the given amount times and find the maximum of all rolls<br /><br />
   
--dieTester(d1, 10, "min")<br />
+dieTester(d1, 10, "min")<br />
   -Parameter 1 is the Dice object<br />
   -Parameter 2 is the amount of times you want to roll<br />
   -Parameter 3 is the string name of what you want to do<br />
   -will roll the given amount times and find the minimum of all rolls<br /><br />
   
--dieTester(d1, 10, "avg")<br />
+dieTester(d1, 10, "avg")<br />
   -Parameter 1 is the Dice object<br />
   -Parameter 2 is the amount of times you want to roll<br />
   -Parameter 3 is the string name of what you want to do<br />

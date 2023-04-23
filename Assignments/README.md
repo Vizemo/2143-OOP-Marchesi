@@ -14,6 +14,7 @@ This program implements a list data structure that links together nodes of integ
 |   4   | [P01](./P01)| Program-1 a Vector class|
 |   5   | [P02](./P02)| Program-2 a Vector class overloading operators|
 |   6   | [P03](./P03)| Program-3 a multiple class project to write Graphviz Dot code|
+|   7   | [P04](./P04)| Program-4 a DND dice roller in Python|
 
 ### Instructions
 

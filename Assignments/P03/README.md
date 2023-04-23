@@ -2,7 +2,8 @@
 ### Victor Marchesi
 ### Description:
 
-
+- This program creates code to copy into graphiz to create graphs
+- Like doubly linked lists, singly linked lists, and binary trees
 
 ### Files
 

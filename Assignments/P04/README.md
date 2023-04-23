@@ -20,6 +20,7 @@
 ### Example Command
 
 D1 = Dice(10, 5)<br />
+  -Creates a die with parameter<br />
   -First parameter is number of sides, and second parameter is number of dices wanted<br /><br />
 
 dieTester(d1, 10, "sum")<br />

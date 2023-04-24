@@ -15,7 +15,7 @@
 
 ### Instructions
 
-- This program requires importing rich(print), sys, and random
+- This program requires importing rich(print), sys, and random, and Dice/Die
 
 ### Example Command
 

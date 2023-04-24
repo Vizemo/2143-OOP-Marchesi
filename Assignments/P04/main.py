@@ -22,6 +22,7 @@
 
 from Dice import Die
 from Dice import Dice
+from rich import print
 
 '''
   Public : dieTester(die, runs=10, testType="sum"):

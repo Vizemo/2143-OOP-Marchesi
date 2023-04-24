@@ -9,13 +9,13 @@
 |   #   | Files    | Description                      |
 | :---: | -------- | -------------------------------- |
 |   1   | [BANNER.cpp](./BANNER.cpp) | My Banner. |
-|   2   | [main.cpp](./main.cpp)   | The source code for Graphviz class assignment. |
-|   3   | [output.txt](./output.txt) | output.txt file that has the output data |
+|   2   | [main.py](./main.cpp)   | The source code to create objects for dice class assignment. |
+|   3   | [Dice.py](./Dice.py)    | The source code for implementing the dice class assignment. |
 
 
 ### Instructions
 
-- This program requires importing rich(print), sys, and random
+- This program requires importing rich(print), sys, and random, and Dice/Die
 
 ### Example Command
 

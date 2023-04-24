@@ -10,7 +10,7 @@
 | :---: | -------- | -------------------------------- |
 |   1   | [BANNER.cpp](./BANNER.cpp) | My Banner. |
 |   2   | [main.py](./main.cpp)   | The source code to create objects for dice class assignment. |
-|   2   | [Dice.py](./Dice.py)    | The source code for implementing the dice class assignment. |
+|   3   | [Dice.py](./Dice.py)    | The source code for implementing the dice class assignment. |
 
 
 ### Instructions

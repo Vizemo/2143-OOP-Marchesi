@@ -19,12 +19,11 @@
         output.txt  : Output data that comes from main
         BANNER.cpp  : My banner
 '''
-
 import sys
 from rich import print
 import random
 
-
+#**************************Classes***********************
 '''
   Class Die
  
@@ -39,7 +38,7 @@ import random
       - use is to create a Die objects
 '''
 class Die(object):
-
+  
 #*************************constructors*******************
 
   '''
@@ -249,13 +248,4 @@ class Dice:
       return self.sum()
 
 
-#Main where the methods are called
-if __name__ == '__main__':
-  #Creates a dice Object
-  d1 = Dice(10, 5)
 
-  #Method calls to
-  dieTester(d1, 10, "sum")
-  dieTester(d1, 10, "max")
-  dieTester(d1, 10, "min")
-  dieTester(d1, 10, "avg")

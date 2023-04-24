@@ -1,4 +1,27 @@
-from Dice import *
+'''
+  Author:           Victor Marchesi
+  Email:            vzmarchesi1016@my.msutexas.edu
+  Label:            09-P04
+  Title:            Roll them Bones!
+  Course:           2143-201
+  Semester:         Spring 2023
+ 
+  Description:
+        Use 2 classes to create a dice roller with different parameters
+        depending on what kind of die and how many sides
+        
+  Usage:
+        Test code is provided in main and should run without any 
+        issues
+ 
+  Files: 
+        main.cpp    : Main driver file
+        output.txt  : Output data that comes from main
+        BANNER.cpp  : My banner
+'''
+
+from Dice import Die
+from Dice import Dice
 
 '''
   Public : dieTester(die, runs=10, testType="sum"):

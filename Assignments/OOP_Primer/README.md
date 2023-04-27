@@ -4,6 +4,9 @@
 - Date: 02 Feb 2023
 - Class: 2143 OOP
 
+## Link to wiki
+https://github.com/Vizemo/2143-OOP-Marchesi/wiki
+
 ## Definitions
 
 

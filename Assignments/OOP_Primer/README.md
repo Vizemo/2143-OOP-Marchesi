@@ -4,10 +4,13 @@
 - Date: 02 Feb 2023
 - Class: 2143 OOP
 
+## Link to wiki
+https://github.com/Vizemo/2143-OOP-Marchesi/wiki
+
 ## Definitions
 
 
-#### Abstraction
+## Abstraction
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -21,8 +24,7 @@
 
 
 
-## OOP concept
-#### Attributes / Properties
+## Attributes / Properties
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -35,8 +37,7 @@
 > This is your method definition
 
 
-## OOP concept
-#### Class
+## Class
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -49,8 +50,7 @@
 > This is your method definition
 
 
-## OOP concept
-#### Class Variable
+## Class Variable
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -63,8 +63,7 @@
 > This is your method definition
 
 
-## OOP concept
-#### Composition
+## Composition
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -77,8 +76,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Constructor
+
+## Constructor
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -91,8 +90,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Encapsulation
+
+## Encapsulation
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -105,8 +104,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Friends
+
+## Friends
 
 
 >![friend](https://user-images.githubusercontent.com/91359207/215235680-0878cdc0-d791-4109-bca7-8b1fb95055cc.png)
@@ -118,8 +117,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Inheritance
+
+## Inheritance
 
 
 >![inheritance](https://user-images.githubusercontent.com/91359207/215235888-5357e828-935e-46dd-8903-174be4468916.png)
@@ -131,7 +130,7 @@
 > This is your method definition
 
 
-## OOP concept
+
 #### Instance Variable
 
 
@@ -144,8 +143,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Member Variable
+
+## Member Variable
 
 
 >![instance_variable](https://user-images.githubusercontent.com/91359207/215235929-f40c5ff7-789c-48cb-b4a5-aa0886c314b7.png)
@@ -157,8 +156,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Method
+
+## Method
 
 
 >![Methods](https://user-images.githubusercontent.com/91359207/215235952-0cf81a1c-48a2-4eb0-aa48-ab620a0bfb68.png)
@@ -170,8 +169,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Multiple Inheritance
+
+## Multiple Inheritance
 
 
 >![multiple_inheritance](https://user-images.githubusercontent.com/91359207/215236048-dad2a364-6806-4e8d-8347-c14907607e6a.png)
@@ -183,8 +182,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Object
+
+## Object
 
 
 >![object](https://user-images.githubusercontent.com/91359207/215236026-5b9425f1-31d7-4423-9253-c5bd00d8ee59.png)
@@ -196,8 +195,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Overloading
+
+## Overloading
 
 
 >![overloading](https://user-images.githubusercontent.com/91359207/215236303-9f981d3c-acca-4553-b6a9-838d87f6875e.png)
@@ -209,8 +208,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Polymorphism
+
+## Polymorphism
 
 
 >![polymorphsin](https://user-images.githubusercontent.com/91359207/215236308-55dc0916-b9cd-481b-9f88-18224793c38d.png)
@@ -222,8 +221,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Public / Private / Protected
+
+## Public / Private / Protected
 
 
 >![access_specifier](https://user-images.githubusercontent.com/91359207/215236216-35469476-de10-4771-a706-943c30726ebc.png)
@@ -235,8 +234,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Static
+
+## Static
 
 
 >![static](https://user-images.githubusercontent.com/91359207/215236242-7fb59ed9-4935-4425-bb75-79e2e0d067eb.png)
@@ -248,8 +247,8 @@
 > This is your method definition
 
 
-## OOP concept
-#### Virtual
+
+## Virtual
 
 
 >![virtual](https://user-images.githubusercontent.com/91359207/215236337-0a34c6e0-4e26-42bf-8692-abd1c26254dc.png)

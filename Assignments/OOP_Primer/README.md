@@ -24,7 +24,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-## OOP Concepts
+## OOP Concept
 #### Attributes / Properties
 
 > This is your definition of what a class is. Using images is A-ok. For example: 

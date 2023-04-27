@@ -10,7 +10,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 ## Definitions
 
 
-#### Abstraction
+## Abstraction
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -24,7 +24,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Attributes / Properties
+## Attributes / Properties
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -37,7 +37,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 > This is your method definition
 
 
-#### Class
+## Class
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -50,7 +50,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 > This is your method definition
 
 
-#### Class Variable
+## Class Variable
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -63,7 +63,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 > This is your method definition
 
 
-#### Composition
+## Composition
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -77,7 +77,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Constructor
+## Constructor
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -91,7 +91,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Encapsulation
+## Encapsulation
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -105,7 +105,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Friends
+## Friends
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -119,7 +119,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Inheritance
+## Inheritance
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -147,7 +147,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Member Variable
+## Member Variable
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -161,7 +161,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Method
+## Method
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -175,7 +175,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Multiple Inheritance
+## Multiple Inheritance
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -189,7 +189,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Object
+## Object
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -203,7 +203,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Overloading
+## Overloading
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -217,7 +217,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Polymorphism
+## Polymorphism
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -231,7 +231,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Public / Private / Protected
+## Public / Private / Protected
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -245,7 +245,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Static
+## Static
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >
@@ -259,7 +259,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Virtual
+## Virtual
 
 > This is your definition of what a class is. Using images is A-ok. For example: 
 >

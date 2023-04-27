@@ -108,8 +108,7 @@
 ## OOP concept
 #### Friends
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![friend](https://user-images.githubusercontent.com/91359207/215235680-0878cdc0-d791-4109-bca7-8b1fb95055cc.png)
 
 #### Object
@@ -122,8 +121,7 @@
 ## OOP concept
 #### Inheritance
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![inheritance](https://user-images.githubusercontent.com/91359207/215235888-5357e828-935e-46dd-8903-174be4468916.png)
 
 #### Object
@@ -136,8 +134,7 @@
 ## OOP concept
 #### Instance Variable
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![instance_variable](https://user-images.githubusercontent.com/91359207/215235896-0285d55f-d69a-4935-94ed-0229a53ffd5f.png)
 
 #### Object
@@ -150,8 +147,7 @@
 ## OOP concept
 #### Member Variable
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![instance_variable](https://user-images.githubusercontent.com/91359207/215235929-f40c5ff7-789c-48cb-b4a5-aa0886c314b7.png)
 
 #### Object
@@ -164,8 +160,7 @@
 ## OOP concept
 #### Method
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![Methods](https://user-images.githubusercontent.com/91359207/215235952-0cf81a1c-48a2-4eb0-aa48-ab620a0bfb68.png)
 
 #### Object
@@ -178,8 +173,7 @@
 ## OOP concept
 #### Multiple Inheritance
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![multiple_inheritance](https://user-images.githubusercontent.com/91359207/215236048-dad2a364-6806-4e8d-8347-c14907607e6a.png)
 
 #### Object
@@ -192,8 +186,7 @@
 ## OOP concept
 #### Object
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![object](https://user-images.githubusercontent.com/91359207/215236026-5b9425f1-31d7-4423-9253-c5bd00d8ee59.png)
 
 #### Object
@@ -206,8 +199,7 @@
 ## OOP concept
 #### Overloading
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![overloading](https://user-images.githubusercontent.com/91359207/215236303-9f981d3c-acca-4553-b6a9-838d87f6875e.png)
 
 #### Object
@@ -220,8 +212,7 @@
 ## OOP concept
 #### Polymorphism
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![polymorphsin](https://user-images.githubusercontent.com/91359207/215236308-55dc0916-b9cd-481b-9f88-18224793c38d.png)
 
 #### Object
@@ -234,8 +225,7 @@
 ## OOP concept
 #### Public / Private / Protected
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![access_specifier](https://user-images.githubusercontent.com/91359207/215236216-35469476-de10-4771-a706-943c30726ebc.png)
 
 #### Object
@@ -248,8 +238,7 @@
 ## OOP concept
 #### Static
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![static](https://user-images.githubusercontent.com/91359207/215236242-7fb59ed9-4935-4425-bb75-79e2e0d067eb.png)
 
 #### Object
@@ -262,8 +251,7 @@
 ## OOP concept
 #### Virtual
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![virtual](https://user-images.githubusercontent.com/91359207/215236337-0a34c6e0-4e26-42bf-8692-abd1c26254dc.png)
 
 #### Object

@@ -122,7 +122,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 
 
-#### Instance Variable
+## Instance Variable
 
 
 >![instance_variable](https://user-images.githubusercontent.com/91359207/215235896-0285d55f-d69a-4935-94ed-0229a53ffd5f.png)

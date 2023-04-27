@@ -2,10 +2,7 @@
 ### Victor Marchesi
 ### Description:
 
-This program implements a Vector class that links together data by using struct nodes.
-Contains constructors, and methods to modify the Vector in the way a vector needs to be modifed.
-
-Also added operator overloading of =, ==, +, -, *, /, fstream, and ostream <<.
+This Project is to create a UML diagram of a DND game that we talked about in class.
 
 ### Files
 

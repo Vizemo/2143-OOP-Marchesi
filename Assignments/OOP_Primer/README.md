@@ -12,8 +12,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 ## Abstraction
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![Abstraction](https://user-images.githubusercontent.com/91359207/215235472-b35ead28-9365-439f-aaf9-a85256c1a963.png)
 
 #### Object
@@ -26,8 +25,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 ## Attributes / Properties
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![access_specifier](https://user-images.githubusercontent.com/91359207/215235502-d77cea35-c331-4b4d-a523-82d16ceb8ce8.png)
 
 #### Object
@@ -39,8 +37,6 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 ## Class
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
 >![Class](https://user-images.githubusercontent.com/91359207/215235867-c1ea8a54-0ed7-4954-84c6-d2ed72f51eff.png)
 
 #### Object
@@ -52,8 +48,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 ## Class Variable
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
 >![Class Variable](https://user-images.githubusercontent.com/91359207/215235591-46138041-750f-4498-830c-437dec19594f.png)
 
 #### Object
@@ -65,8 +60,6 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 ## Composition
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
 >![Composition](https://user-images.githubusercontent.com/91359207/215235625-335f0727-7d34-4bc0-bb44-73ee7083890e.png)
 
 #### Object
@@ -79,8 +72,8 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 ## Constructor
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
+
+
 >![Constructor](https://user-images.githubusercontent.com/91359207/215235665-2e5d8363-b945-4408-9e3f-e2da5fea3200.png)
 
 #### Object
@@ -93,8 +86,6 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 ## Encapsulation
 
-> This is your definition of what a class is. Using images is A-ok. For example: 
->
 >![Encapsulation](https://user-images.githubusercontent.com/91359207/215235674-30039ef6-2fd5-493e-b466-3a02ce413717.png)
 
 #### Object

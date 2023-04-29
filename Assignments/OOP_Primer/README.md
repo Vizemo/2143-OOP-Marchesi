@@ -15,8 +15,8 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 >![Abstraction](https://user-images.githubusercontent.com/91359207/215235472-b35ead28-9365-439f-aaf9-a85256c1a963.png)
 
 ## Definition
-Abstraction is the concept of object-oriented programming that "shows" only essential attributes and "hides" unnecessary information. The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts. It is one of the most important concepts of OOP.
-> https://eng.libretexts.org/Courses/Delta_College/C_-_Data_Structures/06%3A_Abstraction_Encapsulation/1.01%3A_Difference_between_Abstraction_and_Encapsulation
+Data abstraction is one of the most essential and important features of object-oriented programming in C++. Abstraction means displaying only essential information and hiding the details. Data abstraction refers to providing only essential information about the data to the outside world, hiding the background details or implementation. 
+> https://www.geeksforgeeks.org/abstraction-in-cpp/
 
 
 ## Attributes / Properties
@@ -44,24 +44,14 @@ The building block of C++ that leads to Object-Oriented programming is a Class. 
 Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block. There would only be one copy of each class variable per class, regardless of how many objects are created from it
 > https://www.tutorialspoint.com/What-are-class-variables-instance-variables-and-local-variables-in-Java
 
-## Instance Variable
-
-## Definition
-Instance variables are declared in a class, but outside a method. When space is allocated for an object in the heap, a slot for each instance variable value is created. Instance variables hold values that must be referenced by more than one method, constructor or block, or essential parts of an object's state that must be present throughout the class.
-> https://www.tutorialspoint.com/What-are-class-variables-instance-variables-and-local-variables-in-Java
-
-## Local Variables
-
-## Definition
-Local variables are declared in methods, constructors, or blocks. Local variables are created when the method, constructor or block is entered and the variable will be destroyed once it exits the method, constructor, or block.
-> https://www.tutorialspoint.com/What-are-class-variables-instance-variables-and-local-variables-in-Java
-
 
 ## Composition
 
 >![Composition](https://user-images.githubusercontent.com/91359207/215235625-335f0727-7d34-4bc0-bb44-73ee7083890e.png)
 
 ## Definition
+Composition is one of the fundamental concepts in object-oriented programming. It describes a class that references one or more objects of other classes in instance variables. This allows you to model a has-a association between objects.
+> https://stackify.com/oop-concepts-composition/
 
 
 ## Constructor
@@ -69,6 +59,15 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 >![Constructor](https://user-images.githubusercontent.com/91359207/215235665-2e5d8363-b945-4408-9e3f-e2da5fea3200.png)
 
 ## Definition
+Constructor in C++ is a special method that is invoked automatically at the time of object creation. It is used to initialize the data members of new objects generally. The constructor in C++ has the same name as the class or structure. Constructor is invoked at the time of object creation. It constructs the values i.e. provides data for the object which is why it is known as constructors.
+> https://www.geeksforgeeks.org/constructors-c/
+
+
+## Constructor
+
+## Definition
+Destructor is an instance member function which is invoked automatically whenever an object is going to be destroyed. Meaning, a destructor is the last function that is going to be called before an object is destroyed.
+> https://www.geeksforgeeks.org/destructors-c/
 
 
 ## Encapsulation
@@ -76,6 +75,8 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 >![Encapsulation](https://user-images.githubusercontent.com/91359207/215235674-30039ef6-2fd5-493e-b466-3a02ce413717.png)
 
 ## Definition
+Encapsulation in C++ is defined as the wrapping up of data and information in a single unit. In Object Oriented Programming, Encapsulation is defined as binding together the data and the functions that manipulate them.
+> https://www.geeksforgeeks.org/encapsulation-in-cpp/
 
 
 ## Friends
@@ -83,6 +84,8 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 >![friend](https://user-images.githubusercontent.com/91359207/215235680-0878cdc0-d791-4109-bca7-8b1fb95055cc.png)
 
 ## Definition
+A friend class can access private and protected members of other classes in which it is declared as a friend. It is sometimes useful to allow a particular class to access private and protected members of other classes. For example, a LinkedList class may be allowed to access private members of Node.
+> https://www.geeksforgeeks.org/friend-class-function-cpp/
 
 
 ## Inheritance
@@ -90,6 +93,9 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 >![inheritance](https://user-images.githubusercontent.com/91359207/215235888-5357e828-935e-46dd-8903-174be4468916.png)
 
 ## Definition
+The capability of a class to derive properties and characteristics from another class is called Inheritance. Inheritance is one of the most important features of Object-Oriented Programming. 
+Inheritance is a feature or a process in which, new classes are created from the existing classes. The new class created is called “derived class” or “child class” and the existing class is known as the “base class” or “parent class”. The derived class now is said to be inherited from the base class.
+> https://www.geeksforgeeks.org/inheritance-in-c/
 
 
 ## Instance Variable
@@ -97,13 +103,17 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 >![instance_variable](https://user-images.githubusercontent.com/91359207/215235896-0285d55f-d69a-4935-94ed-0229a53ffd5f.png)
 
 ## Definition
+Instance variables are declared in a class, but outside a method. When space is allocated for an object in the heap, a slot for each instance variable value is created. Instance variables hold values that must be referenced by more than one method, constructor or block, or essential parts of an object's state that must be present throughout the class.
+> https://www.tutorialspoint.com/What-are-class-variables-instance-variables-and-local-variables-in-Java
 
 
-## Member Variable
+## Member/Local Variable
 
 >![instance_variable](https://user-images.githubusercontent.com/91359207/215235929-f40c5ff7-789c-48cb-b4a5-aa0886c314b7.png)
->
+
 ## Definition
+Local variables are declared in methods, constructors, or blocks. Local variables are created when the method, constructor or block is entered and the variable will be destroyed once it exits the method, constructor, or block.
+> https://www.tutorialspoint.com/What-are-class-variables-instance-variables-and-local-variables-in-Java
 
 
 ## Method
@@ -113,11 +123,13 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 ## Definition
 
 
+
 ## Multiple Inheritance
 
 >![multiple_inheritance](https://user-images.githubusercontent.com/91359207/215236048-dad2a364-6806-4e8d-8347-c14907607e6a.png)
 
 ## Definition
+
 
 
 ## Object
@@ -127,11 +139,22 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 ## Definition
 
 
-## Overloading
+## Function Overloading
 
 >![overloading](https://user-images.githubusercontent.com/91359207/215236303-9f981d3c-acca-4553-b6a9-838d87f6875e.png)
 
 ## Definition
+Function overloading is a feature of object-oriented programming where two or more functions can have the same name but different parameters. When a function name is overloaded with different jobs it is called Function Overloading. In Function Overloading “Function” name should be the same and the arguments should be different. Function overloading can be considered as an example of a polymorphism feature in C++.
+>https://www.geeksforgeeks.org/function-overloading-c/
+
+
+## Operator Overloading
+
+>![Screenshot 2023-04-29 160112](https://user-images.githubusercontent.com/91359207/235324082-76a29ac1-b712-43e1-aef4-08157a81a0a4.png)
+
+## Definition
+Function overloading is a feature of object-oriented programming where two or more functions can have the same name but different parameters. When a function name is overloaded with different jobs it is called Function Overloading. In Function Overloading “Function” name should be the same and the arguments should be different. Function overloading can be considered as an example of a polymorphism feature in C++.
+> https://www.geeksforgeeks.org/operator-overloading-cpp/
 
 
 ## Polymorphism

@@ -203,15 +203,15 @@ The word “polymorphism” means having many forms. In simple words, we can def
 
 ## Definition
 
-They are access modifiers and help us implement Encapsulation (or information hiding). They tell the compiler which other classes should have access to the field or method being defined.
+They are access modifiers and help us implement Encapsulation (or information hiding). They tell the compiler which other classes should have access to the field or method being defined.<br>
 
->private - Only the current class will have access to the field or method.
+<br> private - Only the current class will have access to the field or method.
 
->protected - Only the current class and subclasses (and sometimes also same-package classes) of this class will have access to the field or method.
+<br> protected - Only the current class and subclasses (and sometimes also same-package classes) of this class will have access to the field or method.
 
->public - Any class can refer to the field or call the method.
+<br> public - Any class can refer to the field or call the method.
 
-This assumes these keywords are used as part of a field or method declaration within a class definition.
+<br>This assumes these keywords are used as part of a field or method declaration within a class definition.
 
 > https://stackoverflow.com/questions/1020749/what-are-public-private-and-protected-in-object-oriented-programming
 <br>

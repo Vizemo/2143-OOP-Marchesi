@@ -153,7 +153,8 @@ Function overloading is a feature of object-oriented programming where two or mo
 >![Screenshot 2023-04-29 160112](https://user-images.githubusercontent.com/91359207/235324082-76a29ac1-b712-43e1-aef4-08157a81a0a4.png)
 
 ## Definition
-Function overloading is a feature of object-oriented programming where two or more functions can have the same name but different parameters. When a function name is overloaded with different jobs it is called Function Overloading. In Function Overloading “Function” name should be the same and the arguments should be different. Function overloading can be considered as an example of a polymorphism feature in C++.
+Operator overloading is a compile-time polymorphism. It is an idea of giving special meaning to an existing operator in C++ without changing its original meaning.
+In C++, we can make operators work for user-defined classes. This means C++ has the ability to provide the operators with a special meaning for a data type, this ability is known as operator overloading. For example, we can overload an operator ‘+’ in a class like String so that we can concatenate two strings by just using +. Other example classes where arithmetic operators may be overloaded are Complex Numbers, Fractional Numbers, Big integers, etc.
 > https://www.geeksforgeeks.org/operator-overloading-cpp/
 
 
@@ -162,6 +163,8 @@ Function overloading is a feature of object-oriented programming where two or mo
 >![polymorphsin](https://user-images.githubusercontent.com/91359207/215236308-55dc0916-b9cd-481b-9f88-18224793c38d.png)
 
 ## Definition
+The word “polymorphism” means having many forms. In simple words, we can define polymorphism as the ability of a message to be displayed in more than one form. A real-life example of polymorphism is a person who at the same time can have different characteristics. A man at the same time is a father, a husband, and an employee. So the same person exhibits different behavior in different situations. This is called polymorphism. Polymorphism is considered one of the important features of Object-Oriented Programming.
+>https://www.geeksforgeeks.org/cpp-polymorphism/
 
 
 ## Public / Private / Protected
@@ -169,6 +172,19 @@ Function overloading is a feature of object-oriented programming where two or mo
 >![access_specifier](https://user-images.githubusercontent.com/91359207/215236216-35469476-de10-4771-a706-943c30726ebc.png)
 
 ## Definition
+
+
+They are access modifiers and help us implement Encapsulation (or information hiding). They tell the compiler which other classes should have access to the field or method being defined.
+
+>private - Only the current class will have access to the field or method.
+
+>protected - Only the current class and subclasses (and sometimes also same-package classes) of this class will have access to the field or method.
+
+>public - Any class can refer to the field or call the method.
+
+This assumes these keywords are used as part of a field or method declaration within a class definition.
+
+> https://stackoverflow.com/questions/1020749/what-are-public-private-and-protected-in-object-oriented-programming
 
 
 ## Static

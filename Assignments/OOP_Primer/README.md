@@ -23,21 +23,38 @@ Abstraction is the concept of object-oriented programming that "shows" only esse
 
 >![access_specifier](https://user-images.githubusercontent.com/91359207/215235502-d77cea35-c331-4b4d-a523-82d16ceb8ce8.png)
 
-#### Definition
-
+## Definition
+In computing, the term attribute is used in many different contexts. In the context of a file system, it refers to a characteristic of a file in that system. So, a particular file can have a read-only attribute, which means it is write protected and can't be changed. Another file may not have this attribute, so a person or an application can both read and write to it.
+> https://www.techtarget.com/whatis/definition/attribute
 
 ## Class
 
 >![Class](https://user-images.githubusercontent.com/91359207/215235867-c1ea8a54-0ed7-4954-84c6-d2ed72f51eff.png)
 
 ## Definition
+The building block of C++ that leads to Object-Oriented programming is a Class. It is a user-defined data type, which holds its own data members and member functions, which can be accessed and used by creating an instance of that class. A class is like a blueprint for an object. For Example: Consider the Class of Cars. There may be many cars with different names and brands but all of them will share some common properties like all of them will have 4 wheels, Speed Limit, Mileage range, etc. So here, the Car is the class, and wheels, speed limits, and mileage are their properties.
+> https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/#
 
 
 ## Class Variable
 
->![Class Variable](https://user-images.githubusercontent.com/91359207/215235591-46138041-750f-4498-830c-437dec19594f.png)
+> ![Class Variable](https://user-images.githubusercontent.com/91359207/215235591-46138041-750f-4498-830c-437dec19594f.png)
 
 ## Definition
+Class variables also known as static variables are declared with the static keyword in a class, but outside a method, constructor or a block. There would only be one copy of each class variable per class, regardless of how many objects are created from it
+> https://www.tutorialspoint.com/What-are-class-variables-instance-variables-and-local-variables-in-Java
+
+## Instance Variable
+
+## Definition
+Instance variables are declared in a class, but outside a method. When space is allocated for an object in the heap, a slot for each instance variable value is created. Instance variables hold values that must be referenced by more than one method, constructor or block, or essential parts of an object's state that must be present throughout the class.
+> https://www.tutorialspoint.com/What-are-class-variables-instance-variables-and-local-variables-in-Java
+
+## Local Variables
+
+## Definition
+Local variables are declared in methods, constructors, or blocks. Local variables are created when the method, constructor or block is entered and the variable will be destroyed once it exits the method, constructor, or block.
+> https://www.tutorialspoint.com/What-are-class-variables-instance-variables-and-local-variables-in-Java
 
 
 ## Composition

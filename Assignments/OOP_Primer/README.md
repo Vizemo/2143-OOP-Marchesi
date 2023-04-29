@@ -17,6 +17,7 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 ## Definition
 Data abstraction is one of the most essential and important features of object-oriented programming in C++. Abstraction means displaying only essential information and hiding the details. Data abstraction refers to providing only essential information about the data to the outside world, hiding the background details or implementation. 
 > https://www.geeksforgeeks.org/abstraction-in-cpp/
+<br>
 
 
 ## Attributes / Properties

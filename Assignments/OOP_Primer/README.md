@@ -121,7 +121,8 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 >![Methods](https://user-images.githubusercontent.com/91359207/215235952-0cf81a1c-48a2-4eb0-aa48-ab620a0bfb68.png)
 
 ## Definition
-
+A method is the equivalent of a function in object-oriented programming. A noun is to a verb what a variable is to a method — the methods are the actions that perform operations on a variable. A method accepts parameters as arguments, manipulates these, and then produces an output when the method is called on an object. Methods are similar to functions, but methods are also classified according to their purpose in the class design. In classes, variables are called attributes, so methods often operate on attribute
+> https://dev.to/jps27cse/method-and-attribute-in-oop-3kl
 
 
 ## Multiple Inheritance
@@ -129,7 +130,13 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 >![multiple_inheritance](https://user-images.githubusercontent.com/91359207/215236048-dad2a364-6806-4e8d-8347-c14907607e6a.png)
 
 ## Definition
+Multiple Inheritance is a feature of C++ where a class can inherit from more than one classes.  The constructors of inherited classes are called in the same order in which they are inherited. For example, in the following program, B’s constructor is called before A’s constructor.
+<br> A class can be derived from more than one base class.
 
+<br> Eg: 
+<br>(i) A CHILD class is derived from FATHER and MOTHER class
+<br>(ii) A PETROL class is derived from LIQUID and FUEL class.
+> https://www.geeksforgeeks.org/multiple-inheritance-in-c/
 
 
 ## Object
@@ -137,6 +144,8 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 >![object](https://user-images.githubusercontent.com/91359207/215236026-5b9425f1-31d7-4423-9253-c5bd00d8ee59.png)
 
 ## Definition
+Objects are key to understanding object-oriented technology. Look around right now and you'll find many examples of real-world objects: your dog, your desk, your television set, your bicycle.
+> https://docs.oracle.com/javase/tutorial/java/concepts/object.html
 
 
 ## Function Overloading

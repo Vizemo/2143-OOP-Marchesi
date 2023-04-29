@@ -12,15 +12,10 @@ https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
 ## Abstraction
 
-
 >![Abstraction](https://user-images.githubusercontent.com/91359207/215235472-b35ead28-9365-439f-aaf9-a85256c1a963.png)
 
-#### Object
-> This is your object definition
-
-#### Methods
-> This is your method definition
-
+#### Definition
+> Abstraction is the concept of object-oriented programming that "shows" only essential attributes and "hides" unnecessary information. The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts. It is one of the most important concepts of OOPs.
 
 
 ## Attributes / Properties

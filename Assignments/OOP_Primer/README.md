@@ -70,7 +70,9 @@ Constructor in C++ is a special method that is invoked automatically at the time
 <br>
 
 
-## Constructor
+## Destructor
+
+>![Screenshot 2023-04-29 160112](https://user-images.githubusercontent.com/91359207/235324548-db087958-2253-4eca-bb0e-841e1504cc44.png)
 
 ## Definition
 Destructor is an instance member function which is invoked automatically whenever an object is going to be destroyed. Meaning, a destructor is the last function that is going to be called before an object is destroyed.

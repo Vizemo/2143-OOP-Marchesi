@@ -7,10 +7,10 @@
 ## Link to wiki
 https://github.com/Vizemo/2143-OOP-Marchesi/wiki
 
-## OOP TOPICS
+# OOP TOPICS
 
 
-## Abstraction
+# Abstraction
 
 >![Abstraction](https://user-images.githubusercontent.com/91359207/215235472-b35ead28-9365-439f-aaf9-a85256c1a963.png)
 
@@ -20,7 +20,7 @@ Data abstraction is one of the most essential and important features of object-o
 <br>
 
 
-## Attributes / Properties
+# Attributes / Properties
 
 >![access_specifier](https://user-images.githubusercontent.com/91359207/215235502-d77cea35-c331-4b4d-a523-82d16ceb8ce8.png)
 
@@ -30,7 +30,7 @@ In computing, the term attribute is used in many different contexts. In the cont
 <br>
 
 
-## Class
+# Class
 
 >![Class](https://user-images.githubusercontent.com/91359207/215235867-c1ea8a54-0ed7-4954-84c6-d2ed72f51eff.png)
 
@@ -40,7 +40,7 @@ The building block of C++ that leads to Object-Oriented programming is a Class. 
 <br>
 
 
-## Class Variable
+# Class Variable
 
 > ![Class Variable](https://user-images.githubusercontent.com/91359207/215235591-46138041-750f-4498-830c-437dec19594f.png)
 
@@ -50,7 +50,7 @@ Class variables also known as static variables are declared with the static keyw
 <br>
 
 
-## Composition
+# Composition
 
 >![Composition](https://user-images.githubusercontent.com/91359207/215235625-335f0727-7d34-4bc0-bb44-73ee7083890e.png)
 
@@ -60,7 +60,7 @@ Composition is one of the fundamental concepts in object-oriented programming. I
 <br>
 
 
-## Constructor
+# Constructor
 
 >![Constructor](https://user-images.githubusercontent.com/91359207/215235665-2e5d8363-b945-4408-9e3f-e2da5fea3200.png)
 
@@ -70,7 +70,7 @@ Constructor in C++ is a special method that is invoked automatically at the time
 <br>
 
 
-## Destructor
+# Destructor
 
 >![Screenshot 2023-04-29 160112](https://user-images.githubusercontent.com/91359207/235324548-db087958-2253-4eca-bb0e-841e1504cc44.png)
 
@@ -80,7 +80,7 @@ Destructor is an instance member function which is invoked automatically wheneve
 <br>
 
 
-## Encapsulation
+# Encapsulation
 
 >![Encapsulation](https://user-images.githubusercontent.com/91359207/215235674-30039ef6-2fd5-493e-b466-3a02ce413717.png)
 
@@ -90,7 +90,7 @@ Encapsulation in C++ is defined as the wrapping up of data and information in a 
 <br>
 
 
-## Friends
+# Friends
 
 >![friend](https://user-images.githubusercontent.com/91359207/215235680-0878cdc0-d791-4109-bca7-8b1fb95055cc.png)
 
@@ -100,7 +100,7 @@ A friend class can access private and protected members of other classes in whic
 <br>
 
 
-## Inheritance
+# Inheritance
 
 >![inheritance](https://user-images.githubusercontent.com/91359207/215235888-5357e828-935e-46dd-8903-174be4468916.png)
 
@@ -111,7 +111,7 @@ Inheritance is a feature or a process in which, new classes are created from the
 <br>
 
 
-## Instance Variable
+# Instance Variable
 
 >![instance_variable](https://user-images.githubusercontent.com/91359207/215235896-0285d55f-d69a-4935-94ed-0229a53ffd5f.png)
 
@@ -121,7 +121,7 @@ Instance variables are declared in a class, but outside a method. When space is 
 <br>
 
 
-## Member/Local Variable
+# Member/Local Variable
 
 >![instance_variable](https://user-images.githubusercontent.com/91359207/215235929-f40c5ff7-789c-48cb-b4a5-aa0886c314b7.png)
 
@@ -131,7 +131,7 @@ Local variables are declared in methods, constructors, or blocks. Local variable
 <br>
 
 
-## Method
+# Method
 
 >![Methods](https://user-images.githubusercontent.com/91359207/215235952-0cf81a1c-48a2-4eb0-aa48-ab620a0bfb68.png)
 
@@ -141,7 +141,7 @@ A method is the equivalent of a function in object-oriented programming. A noun 
 <br>
 
 
-## Multiple Inheritance
+# Multiple Inheritance
 
 >![multiple_inheritance](https://user-images.githubusercontent.com/91359207/215236048-dad2a364-6806-4e8d-8347-c14907607e6a.png)
 
@@ -156,7 +156,7 @@ Multiple Inheritance is a feature of C++ where a class can inherit from more tha
 <br>
 
 
-## Object
+# Object
 
 >![object](https://user-images.githubusercontent.com/91359207/215236026-5b9425f1-31d7-4423-9253-c5bd00d8ee59.png)
 
@@ -166,7 +166,7 @@ Objects are key to understanding object-oriented technology. Look around right n
 <br>
 
 
-## Function Overloading
+# Function Overloading
 
 >![overloading](https://user-images.githubusercontent.com/91359207/215236303-9f981d3c-acca-4553-b6a9-838d87f6875e.png)
 
@@ -176,7 +176,7 @@ Function overloading is a feature of object-oriented programming where two or mo
 <br>
 
 
-## Operator Overloading
+# Operator Overloading
 
 >![Screenshot 2023-04-29 160112](https://user-images.githubusercontent.com/91359207/235324082-76a29ac1-b712-43e1-aef4-08157a81a0a4.png)
 
@@ -187,7 +187,7 @@ In C++, we can make operators work for user-defined classes. This means C++ has 
 <br>
 
 
-## Polymorphism
+# Polymorphism
 
 >![polymorphsin](https://user-images.githubusercontent.com/91359207/215236308-55dc0916-b9cd-481b-9f88-18224793c38d.png)
 
@@ -197,7 +197,7 @@ The word “polymorphism” means having many forms. In simple words, we can def
 <br>
 
 
-## Public / Private / Protected
+# Public / Private / Protected
 
 >![access_specifier](https://user-images.githubusercontent.com/91359207/215236216-35469476-de10-4771-a706-943c30726ebc.png)
 
@@ -217,18 +217,17 @@ They are access modifiers and help us implement Encapsulation (or information hi
 <br>
 
 
-## Static
+# Static
 
->![static](https://user-images.githubusercontent.com/91359207/215236242-7fb59ed9-4935-4425-bb75-79e2e0d067eb.png)
+>![static](https://www.geeksforgeeks.org/static-keyword-cpp/#)
 
 ## Definition
-Static functions are helpful as they do not rely on an instantiated member of whatever class they are attached to.<br>
-Static functions can provide functionality related to an a particular class without requiring the programmer to first create an instance of that class.
+Static variables in a Function: When a variable is declared as static, space for it gets allocated for the lifetime of the program. Even if the function is called multiple times, space for the static variable is allocated only once and the value of variable in the previous call gets carried through the next function call. This is useful for implementing coroutines in C/C++ or any other application where previous state of function needs to be stored. 
 >https://stackoverflow.com/questions/35089576/static-methods-in-oop
 <br>
 
 
-## Virtual
+# Virtual
 
 >![virtual](https://user-images.githubusercontent.com/91359207/215236337-0a34c6e0-4e26-42bf-8692-abd1c26254dc.png)
 

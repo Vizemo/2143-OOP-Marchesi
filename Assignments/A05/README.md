@@ -12,71 +12,57 @@
 ![UML_DND](https://user-images.githubusercontent.com/91359207/236104684-f5e15852-26fb-47cf-b091-6b9a23557a30.png)
 
 # Classes
-## Character
+## Class Character
 Class where character is made and modfied
 ### Usage
 has every stat, experience, and methods to modify all of the different entities
 
-## Inventory
+## Class Inventory
 Class were inventory is made and managed
 ### Usage
-modifies inventory items, amounts, and methods to modify the data
+modifies inventory items, amounts
 
-## Character
-
+## Class Armor
+Class were armor is created and managed
 ### Usage
+modifies armor attributes
 
-
-## Character
-
+## Class Weapon
+Class were weapon is created and managed
 ### Usage
+modifies weapon attributes
 
-
-## Character
-
+## Class Items
+Class were items are created and managed
 ### Usage
+modifies item attributes
 
-
-## Character
-
+## Class Player
+Class were a player is created and managed
 ### Usage
+modifies character attributes
 
-
-## Character
-
+## Class Party
+Class where party is created and managed
 ### Usage
+modifies party attributes
 
-
-## Character
-
+## Class Enemy
+Class were enemy is created and managed
 ### Usage
+modifies enemy attributes
 
-
-## Character
-
+## Class Encounter
+Class were encounter is created and managed
 ### Usage
+modifies encounter attributes such as enemy, terrain, and obstacles
 
-
-## Character
-
+## Class Campaign
+Class were campaign is created and managed
 ### Usage
+modifies campaign by the Dungeon Master
 
-
-## Character
-
+## Class DungeonMaster
+Class were the dungeon master is created
 ### Usage
-
-
-## Character
-
-### Usage
-
-
-## Character
-
-### Usage
-
-
-## Character
-
-### Usage
+modfies nearly everything about the DND campaign except what the players do

@@ -12,7 +12,7 @@
 ![UML_DND](https://user-images.githubusercontent.com/91359207/236106847-05bd4b21-04f1-4f2f-8c82-2a0978fb621b.png)
 
 # Classes
-## Class Character
+## [Class Character](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/character.png)
 Class where character is made and modfied
 ### Usage
 has every stat, experience, and methods to modify all of the different entities

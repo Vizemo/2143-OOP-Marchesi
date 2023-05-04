@@ -8,7 +8,7 @@
 | :---: | -------- | -------------------------------- |
 |   1   | [BANNER.cpp](./BANNER.cpp) | My Banner. |
 |   2   | [UML_DND.png](./UML_DND.png) | My UML DND Diagram. |
-|   3   | [Classes](./classes) | My individual class folder. |
+|   3   | [Classes](https://github.com/Vizemo/2143-OOP-Marchesi/tree/main/Assignments/A05/Classes) | My individual class .png folder. |
 
 ![UML_DND](https://user-images.githubusercontent.com/91359207/236106847-05bd4b21-04f1-4f2f-8c82-2a0978fb621b.png)
 

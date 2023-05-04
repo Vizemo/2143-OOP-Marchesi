@@ -1,7 +1,7 @@
 ## A04 - Desining you Game
 ### Victor Marchesi
 ### Description:
--
+- Designing my own DND game using UML diagrams
 
 ### Files
 |   #   | Files    | Description                      |

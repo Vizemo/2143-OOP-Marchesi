@@ -17,52 +17,52 @@ Class where character is made and modfied
 ### Usage
 has every stat, experience, and methods to modify all of the different entities
 
-## Class Inventory
+## [Class Inventory](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/inventory.png)
 Class were inventory is made and managed
 ### Usage
 modifies inventory items, amounts
 
-## Class Armor
+## [Class Armor](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/armor.png)
 Class were armor is created and managed
 ### Usage
 modifies armor attributes
 
-## Class Weapon
+## [Class Weapon](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/weapon.png)
 Class were weapon is created and managed
 ### Usage
 modifies weapon attributes
 
-## Class Items
+## [Class Items](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/items.png)
 Class were items are created and managed
 ### Usage
 modifies item attributes
 
-## Class Player
+## [Class Player](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/player.png)
 Class were a player is created and managed
 ### Usage
 modifies character attributes
 
-## Class Party
+## [Class Party](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/party.png)
 Class where party is created and managed
 ### Usage
 modifies party attributes
 
-## Class Enemy
+## [Class Enemy](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/enemy.png)
 Class were enemy is created and managed
 ### Usage
 modifies enemy attributes
 
-## Class Encounter
+## [Class Encounter](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/encounter.png)
 Class were encounter is created and managed
 ### Usage
 modifies encounter attributes such as enemy, terrain, and obstacles
 
-## Class Campaign
+## [Class Campaign](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/campaign.png)
 Class were campaign is created and managed
 ### Usage
 modifies campaign by the Dungeon Master
 
-## Class DungeonMaster
+## [Class DungeonMaster](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/dungeonmaster.png)
 Class were the dungeon master is created
 ### Usage
 modfies nearly everything about the DND campaign except what the players do

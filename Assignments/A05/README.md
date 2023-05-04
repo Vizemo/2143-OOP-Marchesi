@@ -11,9 +11,72 @@
 
 ![UML_DND](https://user-images.githubusercontent.com/91359207/236104684-f5e15852-26fb-47cf-b091-6b9a23557a30.png)
 
-### Instructions
-- N/A
+# Classes
+## Character
+Class where character is made and modfied
+### Usage
+has every stat, experience, and methods to modify all of the different entities
 
-### Example Command
+## Inventory
+Class were inventory is made and managed
+### Usage
+modifies inventory items, amounts, and methods to modify the data
 
-- N/A
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage
+
+
+## Character
+
+### Usage

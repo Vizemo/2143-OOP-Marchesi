@@ -12,7 +12,7 @@
 
 ![UML_DND](https://user-images.githubusercontent.com/91359207/236106847-05bd4b21-04f1-4f2f-8c82-2a0978fb621b.png)
 
-# Classes
+# [Classes](https://github.com/Vizemo/2143-OOP-Marchesi/tree/main/Assignments/A05/Classes)
 > each heading has a link to the separate class .png file
 ## [Class Character](https://github.com/Vizemo/2143-OOP-Marchesi/blob/main/Assignments/A05/Classes/character.png)
 Class where character is made and modfied
